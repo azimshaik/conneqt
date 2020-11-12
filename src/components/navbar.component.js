@@ -5,7 +5,7 @@ export default class Navbar extends Component {
   render() {
     return (
       <nav
-        className="navbar navbar-expand-lg"
+        className="navbar navbar-expand-xl"
         style={{
           backgroundColor: "#900707",
           color: "white",
