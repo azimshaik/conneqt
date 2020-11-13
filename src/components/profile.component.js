@@ -28,7 +28,12 @@ export default class Profile extends Component {
             <button type="button" class="btn btn-secondary">
               Connect
             </button>
-            <p>Cell | Text | Email</p>
+            <p>
+              {" "}
+              <a href="tel:919-889-2549">Call</a>|{" "}
+              <a href="sms:919-889-2549">Text</a> |{" "}
+              <a href="mailto:azimshaik91@gmail.com">Email</a>
+            </p>
             <hr />
             <p class="lead">
               This is a modified jumbotron that occupies the entire horizontal
