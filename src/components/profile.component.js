@@ -55,7 +55,10 @@ export default class Profile extends Component {
               <div class="col">Behance</div>
               <div class="col"> Dribbble</div>
               <div class="col"> YouTube</div>
-              <div class="col"> Instagram</div>
+              <div class="col">
+                {" "}
+                <a href="https://www.instagram.com/azimshaik1/">Instagram</a>
+              </div>
             </div>
           </div>
         </div>
