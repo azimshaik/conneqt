@@ -34,6 +34,24 @@ export default class Profile extends Component {
               This is a modified jumbotron that occupies the entire horizontal
               space of its parent.
             </p>
+            <div class="row">
+              <div class="col">Quora</div>
+              <div class="col"> HackerRank</div>
+              <div class="col"> Medium</div>
+              <div class="col"> Stackoverflow</div>
+            </div>
+            <div class="row">
+              <div class="col">Leetcode</div>
+              <div class="col"> Github</div>
+              <div class="col"> CodePen</div>
+              <div class="col"> JSFiddle</div>
+            </div>
+            <div class="row">
+              <div class="col">Behance</div>
+              <div class="col"> Dribbble</div>
+              <div class="col"> YouTube</div>
+              <div class="col"> Instagram</div>
+            </div>
           </div>
         </div>
       </div>
